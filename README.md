@@ -99,9 +99,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake.svg" />
 </picture>
 
 ###
