@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Deepak and I'm a graduate Data Scientist from Kingston University.</h2>
+<h3 align="center">Hi 👋! My name is Deepak and I'm an Engineer with expertise in Mechatronics, Automation, Mechanical Engineering, and Data Science. Passionate about AI-driven CFD, robotics, and high-performance computing.</h3>
 
 ###
 
@@ -86,22 +86,15 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aquariusjr10/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake.svg" />
 </picture>
+
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aquariusjr10/count.svg?"  />
+</div>
 
 ###
