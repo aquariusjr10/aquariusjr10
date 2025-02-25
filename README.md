@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋! My name is Deepak and I'm an Engineer with expertise in Mechatronics, Automation, Mechanical Engineering, and Data Science. Passionate about AI-driven CFD, robotics, and high-performance computing.</h3>
-<h4 align="left"> Currently working on [BTC Puzzle 68](https://btc-hunters.com/) </h4>
+<h4 align="left"> Currently working on BTC Puzzle 68 (https://btc-hunters.com/) </h4>
 
 ###
 
