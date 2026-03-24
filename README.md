@@ -1,101 +1,87 @@
-<h3 align="center">Hi 👋! My name is Deepak and I'm an Engineer with expertise in Mechatronics, Automation, Mechanical Engineering, and Data Science. Passionate about AI-driven CFD, robotics, and high-performance computing.</h3>
-<h4 align="left"> Currently working on BTC Puzzle 71 (https://btc-hunters.com/) and some interesting ML/AI projects</h4>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Deepak%20Jeganathan&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Mechatronics%20Engineer&descAlignY=60&descAlign=62" />
+</div>
 
-###
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+Mechatronics+Engineer;AI+%26+Predictive+Modeling+Expert;Robotics+%26+Automation+Enthusiast;Actively+Open+to+New+Opportunities!+🚀" alt="Typing SVG" />
+</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aquariusjr10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aquariusjr10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/deepak-jeganathan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/deepak-jeganathan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.twitch.tv/deepakjr11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <a href="mailto:deepakjeganathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/deepak_jr1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://github.com/aquariusjr10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://t.me/Deepak_jr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-🟢_Open_To_Work-success?style=for-the-badge" alt="Open To Work"/>
   </a>
 </div>
 
-###
+<br>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake.svg" />
-</picture>
-
-###
 <div align="center">
-  <img src="https://profile-counter.glitch.me/aquariusjr10/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aquariusjr10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF&icon_color=00F0FF" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aquariusjr10&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=00F0FF" height="150" alt="languages graph" />
 </div>
 
-###
+---
+
+### 🚀 About Me
+
+I am a proactive **Data Scientist** and **Mechatronics Engineer** with over 2 years of proven experience leveraging robotics expertise and advanced predictive modeling to optimize industrial performance. I specialize in designing high-precision ML models, cutting-edge NLP, and real-time visualization to drive reliable, data-led decision making.
+
+- 🔭 **Current Focus:** High-precision machine learning models, robot system development, fluid dynamics in AI, and real-time analytics.
+- 💡 **Impact:** Proven track record of reducing server downtime by 72% and eliminating 100+ vehicle rejections via automated engineering workflows.
+- 🤝 **Open to Work:** I am actively exploring opportunities to apply my skill sets in Data Science, AI, and Automation. Let's build something amazing together!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,arduino,bash,cmake,linux,ubuntu,debian,git,github,latex,figma,ps,pr,mysql,sqlite,r,md,docker,vscode" />
+  </a>
+</div>
+<br/>
+<div align="center">
+
+| Core Domains | Visualization | Engineering & OS |
+| :---: | :---: | :---: |
+| Python, C++, SQL, MATLAB, R | Tableau, Power BI, Matplotlib | SolidWorks, ROS, Ansys, AutoCAD |
+| Machine Learning, NLP, AI | Seaborn, Matplotlib | Windows, Linux (Ubuntu/Debian), macOS |
+
+</div>
+
+<br/>
+
+---
+
+### 💼 Professional Snapshot
+
+- 📊 **Business Full Spectrum** *(Data Analytics Trainee)*: Enhanced reporting workflows by 25% via interactive Tableau dashboards.
+- 🤖 **Secure Kloud Technologies** *(Associate AI Data Scientist)*: Reduced server downtime by 72% with predictive anomaly detection and optimized NLP pipelines.
+- 🚗 **Jaguar Land Rover** *(Mechatronics Intern)*: Engineered a Poka-yoke RFID prototype, eliminating 100+ vehicle chassis tagging errors.
+- 🦾 **ZF Group** *(Robotics Engineer Intern)*: Developed a 6-axis SCARA robot with Python, boosting shop floor safety by 80%.
+
+---
+
+### 🐍 GitHub Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/aquariusjr10/aquariusjr10/9af9c7cc01b5a14fbe78176600f879afe157fa81/github-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://profile-counter.glitch.me/aquariusjr10/count.svg?" />
+</div>
